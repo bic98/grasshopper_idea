@@ -36,19 +36,36 @@
 
 
 
-> 01_Extracting decimal numbers from a list(python script)
+> # 01_Extracting decimal numbers from a list(python script)
+
+<img src="images/01.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 
-> 02_How to use vector multiplication
+> # 02_How to use vector multiplication
 
-> 03_Extruding a quadrilateral polyline according to given conditions.
+<img src="images/02.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-> 04_Creating a tree branch shape using the given line
+> # 03_Extruding a quadrilateral polyline according to given conditions.
 
-> 05_Data Tree - Shift Paths
+<img src="images/03.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-> 06_Converting the given line into a flat surface
+> # 04_Creating a tree branch shape using the given line
 
-> 07_Variable offset curve
+<img src="images/04.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-> 08_Arranging rectangles along a curved path
+> # 05_Data Tree - Shift Paths
+
+<img src="images/05.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+> # 06_Converting the given line into a flat surface
+
+<img src="images/06.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+> # 07_Variable offset curve
+
+<img src="images/07.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+> # 08_Arranging rectangles along a curved path
+
+<img src="images/08.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
