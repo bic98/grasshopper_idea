@@ -32,6 +32,8 @@
 * 08_Arranging rectangles along a curved path.
 
 * 09_Creating a polyline by connecting points.
+
+* 10_Arrange the given units at the edges.
 ---
 -------
 
@@ -75,3 +77,9 @@
 <img src="images/09_1.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 <img src="images/09_2.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 10_Creating a polyline by connecting points.
+
+<img src="images/10_1.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images/10_2.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
