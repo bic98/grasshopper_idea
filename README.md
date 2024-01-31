@@ -34,6 +34,8 @@
 * 09_Creating a polyline by connecting points.
 
 * 10_Arrange the given units at the edges.
+
+* 11_automated_facade.
 ---
 -------
 
@@ -83,3 +85,7 @@
 <img src="images/10_1.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 <img src="images/10_2.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 11_automated_facade.
+
+<img src="images\11.gif" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
