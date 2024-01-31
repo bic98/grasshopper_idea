@@ -88,4 +88,4 @@
 
 > # 11_automated_facade.
 
-<img src="images\11.gif" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+<img src="images\11.gif" width="100%" height="80%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
