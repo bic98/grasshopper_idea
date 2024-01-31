@@ -16,7 +16,6 @@
 
 * 01_Extracting decimal numbers from a list(python script)
 
-
 * 02_How to use vector multiplication.
 
 * 03_Extruding a quadrilateral polyline according to given conditions.
@@ -36,6 +35,8 @@
 * 10_Arrange the given units at the edges.
 
 * 11_automated_facade.
+
+* 12_Cylindrical surface with brick pattern.
 ---
 -------
 
@@ -89,3 +90,9 @@
 > # 11_automated_facade.
 
 <img src="images\11.gif" width="100%" height="80%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 12_Cylindrical surface with brick pattern.
+
+<img src="images\12.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\12_2.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
