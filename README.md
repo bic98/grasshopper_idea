@@ -37,6 +37,8 @@
 * 11_automated_facade.
 
 * 12_Cylindrical surface with brick pattern.
+
+* 13_Grasshopper Parametric Light.
 ---
 -------
 
@@ -93,6 +95,11 @@
 
 > # 12_Cylindrical surface with brick pattern.
 
+<img src="images\12_2.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
 <img src="images\12.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
-<img src="images\12_2.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+> # 13_Grasshopper Parametric Light.
+
+<img src="images\13.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
