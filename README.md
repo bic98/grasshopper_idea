@@ -39,6 +39,11 @@
 * 12_Cylindrical surface with brick pattern.
 
 * 13_Grasshopper Parametric Light.
+
+* 14_Kinetic facade Tutorial_(from adam youtube).
+
+* 15_making a gable roof.
+
 ---
 -------
 
@@ -97,9 +102,14 @@
 
 <img src="images\12_2.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
-<img src="images\12.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
-
 > # 13_Grasshopper Parametric Light.
 
 <img src="images\13.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
+> # 14_Kinetic facade Tutorial_(from adam youtube).
+
+<img src="images\14.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 15_making a gable roof.
+
+<img src="images\15.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
