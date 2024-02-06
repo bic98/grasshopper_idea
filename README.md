@@ -44,6 +44,10 @@
 
 * 15_making a gable roof.
 
+* 16_Divide surface.
+
+* 17_line to surface.
+
 ---
 -------
 
@@ -102,6 +106,16 @@
 
 <img src="images\12.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
+
+<img src="images\12_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+<img src="images\12_2.png" width="1000%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+<img src="images\12_3.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
 > # 13_Grasshopper Parametric Light.
 
 <img src="images\13.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
@@ -113,3 +127,25 @@
 > # 15_making a gable roof.
 
 <img src="images\15.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\15_1.png" width="1000%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\15_2.png" width="1000%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 16_Divide surface
+
+<img src="images\16.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+<img src="images\16_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+<img src="images\16_2.png" width="1000%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 17_line to surface.
+
+<img src="images\17.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\17_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
