@@ -140,7 +140,7 @@
 <img src="images\16_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 
-<img src="images\16_2.png" width="1000%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+<img src="images\16_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 > # 17_line to surface.
 
