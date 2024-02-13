@@ -48,6 +48,19 @@
 
 * 17_line to surface.
 
+* 18_Planar curve to surface.
+
+* 19_Draw a perpendicular line from the longest side of a polygon.
+
+* 20_Classify the given square cells into 2 branches.
+
+* 21_Draw a zigzag polygon centered around a reference circle.
+
+* 22_Convert a Mesh object to a Nurbs Surface.
+
+
+* 23_Surface from points.
+
 ---
 -------
 
@@ -149,3 +162,49 @@
 <img src="images\17_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 
+> # 18_Planar curve to surface.
+
+<img src="images\18.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\18_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 19_Draw a perpendicular line from the longest side of a polygon.
+
+<img src="images\19.gif" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\19_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\19_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\19_3.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 20_Classify the given square cells into 2 branches.
+
+<img src="images\20.gif" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\20_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\20_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\20_3.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 21_Draw a zigzag polygon centered around a reference circle.
+
+<img src="images\21.gif" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\21_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 22_Convert a Mesh object to a Nurbs Surface.
+
+<img src="images\22.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\22_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\22_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+> # 23_Surface from points.
+
+<img src="images\23.png" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\23_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
