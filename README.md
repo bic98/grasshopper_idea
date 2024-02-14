@@ -58,9 +58,9 @@
 
 * 22_Convert a Mesh object to a Nurbs Surface.
 
-
 * 23_Surface from points.
 
+* 24_Wave curve box.
 ---
 -------
 
@@ -208,3 +208,14 @@
 <img src="images\23.png" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 <img src="images\23_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+> # 24_Wave curve box.
+
+<img src="images\24.png" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\24_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\24_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\24_3.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
