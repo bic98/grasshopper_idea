@@ -211,7 +211,7 @@
 
 > # 22_Convert a Mesh object to a Nurbs Surface.
 
-<img src="images\22.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+<img src="images\22.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 <img src="images\22_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
@@ -237,9 +237,29 @@
 
 > # 25_Extract Surface Edges to Create Mid-Surface.
 
+<img src="images\25.png" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\25_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
 > # 26_Apply Fillet to Specific Edges in Brep.
 
+<img src="images\26.png" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\26_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\26_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+
 > # 27_Select Rectangular Cells within a Given Area.
+
+<img src="images\27.png" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\27_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\27_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\27_3.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 > # 28_Create Surfaces between Adjacent Polygons.
 
@@ -252,6 +272,20 @@
 
 > # 29_Inscribe a Circle in the Empty Space between Two Curves.
 
+<img src="images\29.png" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\29_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\29_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
 > # 30_Create a Pipe Twisting Along an Arc Curve.
+
+<img src="images\30.png" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\30_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\30_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
 
 > # 31_Create Hxagons Arranged Around a Circle.
