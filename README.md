@@ -61,6 +61,21 @@
 * 23_Surface from points.
 
 * 24_Wave curve box.
+
+* 25_Extract Surface Edges to Create Mid-Surface.
+
+* 26_Apply Fillet to Specific Edges in Brep.
+
+* 27_Select Rectangular Cells within a Given Area.
+
+* 28_Create Surfaces between Adjacent Polygons.
+
+* 29_Inscribe a Circle in the Empty Space between Two Curves.
+
+* 30_Create a Pipe Twisting Along an Arc Curve.
+
+* 31_Create Hxagons Arranged Around a Circle.
+
 ---
 -------
 
@@ -219,3 +234,24 @@
 <img src="images\24_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 <img src="images\24_3.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 25_Extract Surface Edges to Create Mid-Surface.
+
+> # 26_Apply Fillet to Specific Edges in Brep.
+
+> # 27_Select Rectangular Cells within a Given Area.
+
+> # 28_Create Surfaces between Adjacent Polygons.
+
+<img src="images\28.png" width="100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\28_1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\28_2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+> # 29_Inscribe a Circle in the Empty Space between Two Curves.
+
+> # 30_Create a Pipe Twisting Along an Arc Curve.
+
+> # 31_Create Hxagons Arranged Around a Circle.
