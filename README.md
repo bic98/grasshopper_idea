@@ -72,9 +72,9 @@
 
 * 29_Inscribe a Circle in the Empty Space between Two Curves.
 
-* 30_Create a Pipe Twisting Along an Arc Curve.
+* 30_Create Hxagons Arranged Around a Circle.
 
-* 31_Create Hxagons Arranged Around a Circle.
+* 31_Create a Pipe Twisting Along an Arc Curve.
 
 ---
 -------
@@ -279,7 +279,7 @@
 <img src="images\29_2.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 
-> # 30_Create a Pipe Twisting Along an Arc Curve.
+> # 30_Create Hxagons Arranged Around a Circle.Create a Pipe Twisting Along an Arc Curve.
 
 <img src="images\30.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
@@ -288,4 +288,10 @@
 <img src="images\30_2.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 
-> # 31_Create Hxagons Arranged Around a Circle.
+> # 31_Create a Pipe Twisting Along an Arc Curve.
+
+<img src="images\31.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\31_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\31_2.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
