@@ -76,6 +76,9 @@
 
 * 31_Create a Pipe Twisting Along an Arc Curve.
 
+* 32_Removing Nested Lines to Create a Single Line
+
+* 33_To create a box shape from lines sorted in a branching structure.
 ---
 -------
 
@@ -295,3 +298,16 @@
 <img src="images\31_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 <img src="images\31_2.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 32_Removing Nested Lines to Create a Single Line.
+
+<img src="images\32.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\32_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+> # 33_To create a box shape from lines sorted in a branching structure.
+
+<img src="images\33.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\33_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>

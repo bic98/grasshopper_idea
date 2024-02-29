@@ -1,0 +1,8 @@
+import rhinoscriptsyntax as rs
+import ghpythonlib.treehelpers as th
+
+T = [[], []]
+
+
+
+DT = th.list_to_tree(T, none_and_holes = True)
