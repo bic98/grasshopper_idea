@@ -76,9 +76,16 @@
 
 * 31_Create a Pipe Twisting Along an Arc Curve.
 
-* 32_Removing Nested Lines to Create a Single Line
+* 32_Removing Nested Lines to Create a Single Line.
 
 * 33_To create a box shape from lines sorted in a branching structure.
+
+* 34_Star shape. 
+
+* 35_Applying Fillet Edge to a Given Brep.
+
+* 36_Creating the Intersection Area of Given Rectangles.
+
 ---
 -------
 
@@ -311,3 +318,25 @@
 <img src="images\33.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
 <img src="images\33_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 34_Star shape. 
+
+<img src="images\34.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\34_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+> # 35_Applying Fillet Edge to a Given Brep.
+
+<img src="images\35.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\35_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 36_Creating the Intersection Area of Given Rectangles.
+
+<img src="images\36.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\36_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\36_2.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
