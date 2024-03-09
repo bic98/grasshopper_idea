@@ -86,6 +86,14 @@
 
 * 36_Creating the Intersection Area of Given Rectangles.
 
+* 37_Arranging semi-circular surfaces around a circle.
+
+* 38_Arranging rectangles (7 pieces) on the XY plane.
+
+* 39_Creating lines that divide the perimeter and interior of a given rectangle.
+
+* 40_Connecting given lines and creating areas.
+
 ---
 -------
 
@@ -340,3 +348,36 @@
 
 <img src="images\36_2.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
 
+> # 37_Arranging semi-circular surfaces around a circle.
+
+<img src="images\37.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\37_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\37_2.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\37_3.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+> # 38_Arranging rectangles (7 pieces) on the XY plane.
+
+<img src="images\38.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\38_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+> # 39_Creating lines that divide the perimeter and interior of a given rectangle.
+
+<img src="images\39.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\39_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+
+> # 40_Connecting given lines and creating areas.
+
+<img src="images\40_3.png" width = "100%" height="50%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\40.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\40_1.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
+
+<img src="images\40_2.png" width = "100%" height="100%" title="px(픽셀) 크기 설정" alt="grasshopper"></img>
